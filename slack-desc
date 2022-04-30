@@ -1,0 +1,11 @@
+libmodbus: libmodbus (A Modbus library for Linux)
+libmodbus:
+libmodbus: libmodbus is a free software library to send/receive data according
+libmodbus: to the Modbus protocol. This library is written in C and supports
+libmodbus: RTU (serial) and TCP (Ethernet) communications.
+libmodbus:
+libmodbus:
+libmodbus:
+libmodbus:
+libmodbus:
+libmodbus: Packaged by Georgi D. Sotirov <gdsotirov@gmail.com>
